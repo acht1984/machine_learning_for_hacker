@@ -1,2 +1,2 @@
-# machine_learning_for_hucker
-for study machine learning for hucker
+# machine_learning_for_hacker
+for study machine learning for hacker
